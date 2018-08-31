@@ -19,6 +19,7 @@
 		<Item Name="SubVI" Type="Folder" URL="../SubVI">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Caps_Explorer.ini" Type="Document" URL="../Caps_Explorer.ini"/>
 		<Item Name="MainPage.vi" Type="VI" URL="../MainPage.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
