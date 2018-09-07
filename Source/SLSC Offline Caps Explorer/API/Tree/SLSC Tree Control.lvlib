@@ -4,20 +4,14 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="SLSC Add Item to Tree with Properties.vi" Type="VI" URL="../SLSC Add Item to Tree with Properties.vi"/>
-	<Item Name="SLSC Convert EDS Command to Tree Control Item.vi" Type="VI" URL="../SLSC Convert EDS Command to Tree Control Item.vi"/>
-	<Item Name="SLSC Convert EDS Properties and Commands to Tree Control.vi" Type="VI" URL="../SLSC Convert EDS Properties and Commands to Tree Control.vi"/>
-	<Item Name="SLSC Convert EDS Property to Tree Control Item.vi" Type="VI" URL="../SLSC Convert EDS Property to Tree Control Item.vi"/>
 	<Item Name="SLSC Convert ENUM Value to ENUM String.vi" Type="VI" URL="../SLSC Convert ENUM Value to ENUM String.vi"/>
 	<Item Name="SLSC Convert Items - Min_Max to String.vi" Type="VI" URL="../SLSC Convert Items - Min_Max to String.vi"/>
 	<Item Name="SLSC Convert Items - String to Variants.vi" Type="VI" URL="../SLSC Convert Items - String to Variants.vi"/>
 	<Item Name="SLSC Convert Items - Variant to String.vi" Type="VI" URL="../SLSC Convert Items - Variant to String.vi"/>
 	<Item Name="SLSC Convert Properties to Tree Control.vi" Type="VI" URL="../SLSC Convert Properties to Tree Control.vi"/>
-	<Item Name="SLSC Convert Tree Item Tag to Channel Name.vi" Type="VI" URL="../SLSC Convert Tree Item Tag to Channel Name.vi"/>
-	<Item Name="SLSC Create Tree Control from EDS datatype.vi" Type="VI" URL="../SLSC Create Tree Control from EDS datatype.vi"/>
 	<Item Name="SLSC Get Items from Tree Control.vi" Type="VI" URL="../SLSC Get Items from Tree Control.vi"/>
 	<Item Name="SLSC Property to Tree Control Item.vi" Type="VI" URL="../SLSC Property to Tree Control Item.vi"/>
 	<Item Name="SLSC Search and Convert ENUM Value by Name.vi" Type="VI" URL="../SLSC Search and Convert ENUM Value by Name.vi"/>
 	<Item Name="SLSC Search Item in Tree Control.vi" Type="VI" URL="../SLSC Search Item in Tree Control.vi"/>
-	<Item Name="SLSC Set Item for Tree Control.vi" Type="VI" URL="../SLSC Set Item for Tree Control.vi"/>
 	<Item Name="SLSC Update Channels State to Tree Control.vi" Type="VI" URL="../SLSC Update Channels State to Tree Control.vi"/>
 </Library>
