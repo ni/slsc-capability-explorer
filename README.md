@@ -2,7 +2,7 @@
 
 ## Installing the JSONtext Library
 
-The SLSC Caps Explorer requires the JSONtext library. You can refer to [http://sine.ni.com/nips/cds/view/p/lang/en/nid/216651](http://sine.ni.com/nips/cds/view/p/lang/en/nid/216651) to download and install the JSONtext library. NI recommends that you download and install the JSONtext library through VIPM.
+The SLSC Caps Explorer requires the JSONtext library. Refer to [http://sine.ni.com/nips/cds/view/p/lang/en/nid/216651](http://sine.ni.com/nips/cds/view/p/lang/en/nid/216651) to download and install the JSONtext library. NI recommends that you download and install the JSONtext library through VIPM.
 
 ## Opening a JSON File
 
@@ -10,7 +10,7 @@ Open **Mainpage.vi** and click the **Open** button to open a JSON file. The file
 
 ## Modifying a Property
 
-To modify a property, You can select a property, modify the value, and click the **Confirm** button.
+To modify a property, select a property, modify the value, and click the **Confirm** button.
 
 ## Adding a Property
 
