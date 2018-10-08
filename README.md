@@ -2,7 +2,7 @@
 
 ## Installing the JSONtext Library
 
-The SLSC Caps Explorer requires the JSONtext library. You can install the [JSONtext library](https://lavag.org/files/file/294-jsontext/?do=download&csrfKey=562fb0ed657f09b529d2c8ee73b802b4) and add the `JDP Science Common Utilities` folder to your project or the `<vi.lib>/JDP Science` directory.
+The SLSC Caps Explorer requires the JSONtext library. You can refer to [http://sine.ni.com/nips/cds/view/p/lang/en/nid/216651](http://sine.ni.com/nips/cds/view/p/lang/en/nid/216651) to download and install the JSONtext library. NI recommends that you download and install the JSONtext library through VIPM.
 
 ## Opening a JSON File
 
@@ -14,11 +14,11 @@ To modify a property, You can select a property, modify the value, and click the
 
 ## Adding a Property
 
-To add a new property, you must select an existing property to indicate the physical channels or the property index for the new property. Enter `new property name/value/bitfield...` and click the **OK** button.
+To add a new property, select an existing property to indicate the physical channels or the property index for the new property. Click the **Add** button to open the **PropertyAdd.vi**. Specify information about the new property and click the **OK** button.
 
 ## Removing a Property
 
-To delete a property, you can select a property and click the **Remove** button.
+To remove a property, select a property and click the **Remove** button.
 
 ## Saving Changes
 
