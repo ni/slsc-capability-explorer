@@ -1,8 +1,8 @@
-# Using the SLSC Capability Explorer
+# Using the Offline SLSC Capability Explorer
 
 ## Installing the JSONtext Library
 
-The SLSC Capability Explorer requires the JSONtext library. Refer to the JSONtext by JDP Science package at [ni.com](www.ni.com) to download and install the JSONtext library. NI recommends that you download and install the JSONtext library through VIPM.
+The Offline SLSC Capability Explorer requires the JSONtext library. Refer to the JSONtext by JDP Science package at [ni.com](www.ni.com) to download and install the JSONtext library. NI recommends that you download and install the JSONtext library through VIPM.
 
 ## Opening a Capabilities File
 
