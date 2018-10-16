@@ -4,6 +4,8 @@
 
 The Offline SLSC Capability Explorer requires the JSONtext library. Refer to the JSONtext by JDP Science package at [ni.com](www.ni.com) to download and install the JSONtext library. NI recommends that you download and install the JSONtext library through VIPM.
 
+__Note:__ The JSONtext library supports LabVIEW 2017 or later. Thus, the Offline SLSC Capability Explorer also supports LabVIEW 2017 or later.
+
 ## Opening a Capabilities File
 
 Open **Mainpage.vi** and click the **Open** button to open a capabilities file. The default location of capabilities files is `C:\ProgramData\National Instruments\nislsc\capabilities\`.
