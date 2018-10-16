@@ -1,12 +1,12 @@
-# Using the SLSC Caps Explorer
+# Using the SLSC Capability Explorer
 
 ## Installing the JSONtext Library
 
-The SLSC Caps Explorer requires the JSONtext library. Refer to the JSONtext by JDP Science package at [ni.com](www.ni.com) to download and install the JSONtext library. NI recommends that you download and install the JSONtext library through VIPM.
+The SLSC Capability Explorer requires the JSONtext library. Refer to the JSONtext by JDP Science package at [ni.com](www.ni.com) to download and install the JSONtext library. NI recommends that you download and install the JSONtext library through VIPM.
 
-## Opening a JSON File
+## Opening a Capabilities File
 
-Open **Mainpage.vi** and click the **Open** button to open a JSON file.
+Open **Mainpage.vi** and click the **Open** button to open a capabilities file. The default location of capabilities files is `C:\ProgramData\National Instruments\nislsc\capabilities\`.
 
 ## Modifying a Property
 
@@ -22,4 +22,4 @@ To remove a property, select a property and click the **Remove** button.
 
 ## Saving Changes
 
-Click the **Save** button to save the changes to a new JSON Caps file. 
+Click the **Save** button to save the changes to a new capabilities file. 
