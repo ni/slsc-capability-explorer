@@ -1,18 +1,18 @@
-# Offline SLSC Capability Explorer
+# SLSC Offline Capability Explorer
 
 ## Overview
 
-The Offline SLSC Capability Explorer is an open-source LabVIEW application that can add, remove, and modify the properties of a JSON capabilities file.
+The SLSC Offline Capability Explorer is an open-source LabVIEW application that can add, remove, and modify the properties of a JSON capabilities file.
 
 ## Software Requirement
 - LabVIEW 2017 or later
 - JSONtext library
 
-## Using the Offline SLSC Capability Explorer
+## Using the SLSC Offline Capability Explorer
 
 ### Installing the JSONtext Library
 
-The Offline SLSC Capability Explorer requires the JSONtext library. Refer to the [JSONtext by JDP Science package](http://sine.ni.com/nips/cds/view/p/lang/en/nid/216651) to download and install the JSONtext library. NI recommends that you download and install the JSONtext library through VIPM.
+The SLSC Offline Capability Explorer requires the JSONtext library. Refer to the [JSONtext by JDP Science package](http://sine.ni.com/nips/cds/view/p/lang/en/nid/216651) to download and install the JSONtext library. NI recommends that you download and install the JSONtext library through VIPM.
 
 __Note:__ The JSONtext library supports LabVIEW 2017 or later.
 
